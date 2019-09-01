@@ -1,0 +1,93 @@
+ h2{color:#75979b;
+ 
+    text-align:right;
+    margin-right: 1.66%;
+
+   }
+
+p{
+	color:white;
+	margin: 1.66%;
+	
+
+}
+#a{
+	width:47%;
+	float: left;
+	margin: 1.66% ;
+	font-size:23px;
+	font-weight: 800;
+	border-right: 2px solid #bfbfbf ;
+	color: #005b64;
+  /*  margin-left: 1.66%;
+	font-size:23px;
+	font-weight: 800;
+	/*text-transform: uppercase;*/
+ 
+	/*padding-left: 20px;*/*/
+}
+#b{width:46%;
+	float:right;
+	margin: 1.66% ;
+	font-size:23px;
+	font-weight: 800;
+	text-align: right;
+	color: #ff5252;
+
+   /* float:right;
+    margin-left: 1.66%;
+	font-size:23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-right: 2px solid #f1f1f1 ;
+	width: 30%; 
+	padding-bottom: 20px;
+*/
+}
+#c{
+	width:47%;
+	float:left;
+	margin: 1.66% ;
+	font-size:23px;
+	font-weight: 800;
+	border-right: 2px solid #bfbfbf ;
+	color: #ff5252;
+
+}
+#d{
+	width:46%;
+	float:right;
+	margin: 1.66% ;
+	font-size:23px;
+	font-weight: 800;
+	text-align: right;
+	color: #005b64;
+}
+text{
+	color-white;
+}
+#special{
+font-family: Merriweather	;
+ font-size: 170px;
+ color: white;
+ text-transform: uppercase;
+margin-top: 1px;
+text-align: top;
+margin: 1.66% ;
+border
+
+
+}
+div{color:white;
+	font-size:23px;
+
+}
+body{
+	color: white
+	font-family: Merriweather	;
+	background-size: 3px;
+	background:black;
+}
+ a{color:#005b64;}
+
+ 
